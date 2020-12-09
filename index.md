@@ -34,4 +34,4 @@ _References_
 
 # Posts
 
-**posts/first post**
+posts/first post
