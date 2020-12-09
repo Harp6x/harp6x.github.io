@@ -22,9 +22,9 @@ _References_
 
 **Linkedin:** [https://www.linkedin.com/in/harp6x](https://www.linkedin.com/in/harp6x/)
 
-**Twitter:** [@harp6x](https://www.twitter.com/slaeryan/)
+**Twitter:** [@harp6x](https://www.twitter.com/harp6x/)
 
-**HackTheBox:** <script src="https://www.hackthebox.eu/badge/255823"></script>
+**HackTheBox:** <script src="https://www.hackthebox.eu/badge/349193"></script>
 
 **Contact:** uddip9@gmail.com, harp6x@protonmail.ch
 
