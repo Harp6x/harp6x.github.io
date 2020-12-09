@@ -1,10 +1,8 @@
----
-layout: default
----
+
 
 # Bio
 
-<img style="padding-right: 30px;" align="left" src="assets/images/harp6x.jpeg">
+<img style="padding-right: 30px;" align="left" src="assets/images/harp6.jpeg">
 **Who am I:** Uddip Ranjan Das		
 
 **Known as:** Harp6x
