@@ -7,7 +7,9 @@
 
 **Known as:** Harp6x
 
-**What do I do:** Ethical Hacker & Red Teamer
+**What do I do:** Red Teamer
+
+**Interests:** Malware Analysis, Malware Research, Network Security, Assembly/C/C++
 
 **Where am I:** India
 
