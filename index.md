@@ -20,7 +20,7 @@
 <br />
 
 
-**Socials**
+**Socials:**
 
 **GitHub:** [https://github.com/harp6x](https://github.com/harp6x)
 
