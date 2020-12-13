@@ -7,7 +7,7 @@
 
 **Known as:** Harp6x
 
-**What do I do:** Red Teaming | Malware analysis | Malware Research
+**What do I do:** Red Teaming, Malware analysis, Malware Research
 
 **Interests:** Malware Analysis, Malware Research, Network Security, Assembly/C/C++
 
