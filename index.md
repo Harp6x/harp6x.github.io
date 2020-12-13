@@ -15,7 +15,9 @@
 
 **Certifications:** Advance Diploma in Information Security
 
-
+<br clear="left"/>
+<br />
+<br />
 
 
 **Socials**
