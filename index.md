@@ -7,7 +7,7 @@
 
 **Known as:** Harp6x
 
-**What do I do:** Red Teamer
+**What do I do:** Red Teaming | Malware analysis | Malware Research
 
 **Interests:** Malware Analysis, Malware Research, Network Security, Assembly/C/C++
 
@@ -16,7 +16,9 @@
 **Certifications:** Advance Diploma in Information Security
 
 
-_References_
+
+
+**Socials**
 
 **GitHub:** [https://github.com/harp6x](https://github.com/harp6x)
 
@@ -26,7 +28,9 @@ _References_
 
 **HackTheBox:** <script src="https://www.hackthebox.eu/badge/349193"></script>
 
-**Contact:** uddip9@gmail.com, harp6x@protonmail.ch
+**tryhackme:**  [https://tryhackme.com/p/Harp6x](https://tryhackme.com/p/Harp6x)
+
+**Contact:** [uddip9@gmail.com](mailto:uddip9@gmail.com), [harp6x@protonmail.ch](mailto:harp6x@protonmail.ch)
 
 **PGP Key:** [Here](https://raw.githubusercontent.com/harp6x/harp6x.github.io/master/harp6x%20PGP%20Public%20Key.asc)
 
