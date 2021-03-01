@@ -42,4 +42,4 @@
 
 # Posts
 
-- **Feburary 2021:** [0_to_malware_analyst](posts/0_to_malware_analyst.html)
+- **Feburary 2021:** [0_to_malware_analyst](posts/0_to_malware_analyst.md)
