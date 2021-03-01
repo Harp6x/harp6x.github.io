@@ -42,4 +42,4 @@
 
 # Posts
 
-- **Dec 09 2020:** [Nothing much going on here](./posts/first_post.html)
+- **Feburary 2021:** [0 to malware_analyst](./posts/0 to malware_analyst.html)
