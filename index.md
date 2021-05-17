@@ -7,7 +7,7 @@
 
 **Known as:** Harp6x
 
-**What do I do:** Red Teaming, Malware analysis, Malware Research
+**What do I do:** Malware Research, Reverse Engineering, Red Teaming, Penetration Testing 
 
 **Interests:** Malware Analysis, Malware Research, Network Security, Assembly/C/C++
 
@@ -15,7 +15,7 @@
 
 **Certifications:** [Certified Red Team Professional](https://www.credential.net/f86a21bc-8852-4c4f-a6d8-d2b32f1c995a)
 
-Advance Diploma in Information Security
+                    Advance Diploma in Information Security
 
 <br clear="left"/>
 <br />
