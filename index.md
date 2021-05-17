@@ -13,7 +13,9 @@
 
 **Where am I:** India
 
-**Certifications:** Advance Diploma in Information Security
+**Certifications:** [Certified Red Team Professional](https://www.credential.net/f86a21bc-8852-4c4f-a6d8-d2b32f1c995a)
+
+Advance Diploma in Information Security
 
 <br clear="left"/>
 <br />
