@@ -7,9 +7,9 @@
 
 **Known as:** Harp6x
 
-**What do I do:** Malware Research, Reverse Engineering, Red Teaming, Penetration Testing 
+**What do I do:** Security Researcher @ MOD 
 
-**Interests:** Malware Analysis, Malware Research, Network Security, Assembly/C/C++
+**Interests:** Malware Research, Red Team, XDev, VR, RE, Assembly/C/C++
 
 **Where am I:** India
 
@@ -33,7 +33,7 @@
 
 **tryhackme:**  [https://tryhackme.com/p/Harp6x](https://tryhackme.com/p/Harp6x)
 
-**Contact:** [uddip9@gmail.com](mailto:uddip9@gmail.com), [harp6x@protonmail.ch](mailto:harp6x@protonmail.ch)
+**Contact:** [harp6x@protonmail.ch](mailto:harp6x@protonmail.ch)
 
 **PGP Key:** [Here](https://raw.githubusercontent.com/harp6x/harp6x.github.io/master/harp6x%20PGP%20Public%20Key.asc)
 
