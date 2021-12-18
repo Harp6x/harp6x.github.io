@@ -7,9 +7,9 @@
 
 **Known as:** Harp6x
 
-**What do I do:** Security Researcher @ MOD 
+**What do I do:** Research Intern @ VerSprite Cybersecurity, ex- Security Researcher @ Ministry of defence of India
 
-**Interests:** Malware Research, Red Team, XDev, VR, RE, Assembly/C/C++
+**Interests:** Malware Research, Red Team, XDev, VR, RE
 
 **Where am I:** India
 
