@@ -23,15 +23,17 @@
 
 **Socials:**
 
-**GitHub:** [https://github.com/harp6x](https://github.com/harp6x)
+**GitHub:** [https://github.com/harp6x]( Github Profile )
 
-**Linkedin:** [https://www.linkedin.com/in/harp6x](https://www.linkedin.com/in/harp6x/)
+**Linkedin:** [https://www.linkedin.com/in/harp6x]( Linkedin Profile )
 
-**Twitter:** [@harp6x](https://www.twitter.com/harp6x/)
+**Twitter:** [@harp6x]( Twitter Account )
 
-**HackTheBox:** <script src="https://www.hackthebox.eu/badge/349193"></script>
+**HackTheBox:** [https://app.hackthebox.com/users/349193]( HTB Profile ) <script src="https://www.hackthebox.eu/badge/349193"></script>
 
-**tryhackme:**  [https://tryhackme.com/p/Harp6x](https://tryhackme.com/p/Harp6x)
+
+
+**tryhackme:**  [https://tryhackme.com/p/Harp6x]( THM Profile )
 
 **Contact:** [harp6x@protonmail.ch](mailto:harp6x@protonmail.ch)
 
