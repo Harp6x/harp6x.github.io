@@ -23,23 +23,21 @@
 
 **Socials:**
 
-**GitHub:** [https://github.com/harp6x]( Github Profile )
+**GitHub:** [ Github Profile ](https://github.com/harp6x)
 
-**Linkedin:** [https://www.linkedin.com/in/harp6x]( Linkedin Profile )
+**Linkedin:** [Linkedin Profile ]( https://www.linkedin.com/in/harp6x)
 
-**Twitter:** [@harp6x]( Twitter Account )
+**Twitter:** [ Twitter Account ](https://twitter.com/harp6x/)
 
-**HackTheBox:** [https://app.hackthebox.com/users/349193]( HTB Profile ) <script src="https://www.hackthebox.eu/badge/349193"></script>
+**HackTheBox:** [ HTB Profile ](https://app.hackthebox.com/users/349193) <script src="https://www.hackthebox.eu/badge/349193"></script>
 
+**tryhackme:**  [ THM Profile ](https://tryhackme.com/p/Harp6x)
 
+**Contact:** [ harp6x@protonmail.ch ](mailto:harp6x@protonmail.ch),  [ uddip9@gmail.com ](mailto:uddip9@gmail.com)
 
-**tryhackme:**  [https://tryhackme.com/p/Harp6x]( THM Profile )
+**PGP Key:** [ Here ](https://raw.githubusercontent.com/harp6x/harp6x.github.io/master/harp6x%20PGP%20Public%20Key.asc)
 
-**Contact:** [harp6x@protonmail.ch](mailto:harp6x@protonmail.ch)
-
-**PGP Key:** [Here](https://raw.githubusercontent.com/harp6x/harp6x.github.io/master/harp6x%20PGP%20Public%20Key.asc)
-
-**Keybase:** [https://keybase.io/harp6x](https://keybase.io/harp6x)
+**Keybase:** [ keybase - harp6x ](https://keybase.io/harp6x)
 
 <br clear="left"/>
 
