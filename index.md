@@ -7,9 +7,9 @@
 
 **Known as:** Harp6x
 
-**What do I do:** Research Intern @ VerSprite Cybersecurity, ex- Security Researcher @ Ministry of defence of India
+**What do I do:** SOC Analyst @ VerSprite Cybersecurity, ex- Security Researcher @ Ministry of defence of India
 
-**Interests:** Malware Research, Red Team, XDev, VR, RE
+**Interests:** Malware Research, Threat Intellegence, Theeat Hunting and Reverse Engineering
 
 **Where am I:** India
 
