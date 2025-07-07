@@ -1,10 +1,3 @@
-
-
-# Bio
-
-<img style="padding-right: 30px;" align="left" src="assets/images/harp6.jpeg">
-**Who am I:** Uddip Ranjan Das		
-
 # Uddip Ranjan Das (Harp6x)
 
 ![Profile Picture](assets/images/harp6.jpeg)
@@ -31,6 +24,7 @@ _March 2023 – June 2025_
 - Managed detection & IR for 2000+ endpoints  
 - Authored 4 technical blogs and 25+ weekly CTI newsletters  
 - Reduced false positives by 40% and average IR time to 30 seconds
+
 
 _For full resume, see [Resume Page](resume.html)_
 
