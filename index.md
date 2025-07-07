@@ -26,7 +26,7 @@ _March 2023 – June 2025_
 - Reduced false positives by 40% and average IR time to 30 seconds
 
 
-_For full resume, see [Resume Page](resume.html)_
+_For full resume, see [Resume Page](docs/resume.pdf)_
 
 ---
 
